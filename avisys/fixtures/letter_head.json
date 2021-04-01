@@ -1,0 +1,18 @@
+[
+ {
+  "content": "\n<div style=\"border-bottom: 1px solid #002060;\"><img src=\"/files/image.png\" style=\"height: 150px; margin-top: 0px;\"> <strong style=\"color: #002060; font-size: 30px; float: right; padding-top: 100px;\">Avisys Services</strong></div>\n",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Letter Head",
+  "footer": "<p align=\"center\" style=\"font-size: 10pt;\">Avisys Services WLL, 208, Ola Tower, Senabis, Manama, Bahrain CR No- 133547</p>",
+  "image": null,
+  "is_default": 1,
+  "letter_head_name": "Avisys",
+  "modified": "2021-04-01 23:49:53.440379",
+  "name": "Avisys",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "source": "HTML"
+ }
+]

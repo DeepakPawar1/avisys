@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include avisys *.css
+recursive-include avisys *.csv
+recursive-include avisys *.html
+recursive-include avisys *.ico
+recursive-include avisys *.js
+recursive-include avisys *.json
+recursive-include avisys *.md
+recursive-include avisys *.png
+recursive-include avisys *.py
+recursive-include avisys *.svg
+recursive-include avisys *.txt
+recursive-exclude avisys *.pyc
