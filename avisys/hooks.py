@@ -131,12 +131,7 @@ jenv = {
  "get_job_offer_data:avisys.avisys.custom_scripts.jinja_file.jinja_file.get_job_offer_data",
  "get_tableA_data:avisys.avisys.custom_scripts.jinja_file.jinja_file.get_tableA_data",
  "get_table_data_for_promotion:avisys.avisys.custom_scripts.jinja_file.jinja_file.get_table_data_for_promotion",
- "get_employee_transfer_data:avisys.avisys.custom_scripts.jinja_file.jinja_file.get_employee_transfer_data",
- "get_delivery_note_data:avisys.avisys.custom_scripts.jinja_file.jinja_file.get_delivery_note_data",
- "validate_data_for_confirmation_letter:avisys.avisys.custom_scripts.jinja_file.jinja_file.validate_data_for_confirmation_letter",
- "validate_data_for_appointment_letter:avisys.avisys.custom_scripts.jinja_file.jinja_file.validate_data_for_appointment_letter",
- "validate_data_for_transfer_letter:avisys.avisys.custom_scripts.jinja_file.jinja_file.validate_data_for_transfer_letter",
- "validate_data_for_job_offer_letter:avisys.avisys.custom_scripts.jinja_file.jinja_file.validate_data_for_job_offer_letter"] 
+ "get_employee_transfer_data:avisys.avisys.custom_scripts.jinja_file.jinja_file.get_employee_transfer_data"] 
 
 
 }
